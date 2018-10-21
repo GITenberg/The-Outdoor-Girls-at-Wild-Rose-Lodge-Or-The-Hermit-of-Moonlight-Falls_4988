@@ -1,5 +1,5 @@
 _repo: The-Outdoor-Girls-at-Wild-Rose-Lodge-Or-The-Hermit-of-Moonlight-Falls_4988
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'Girls -- Juvenile fiction'
 - !lcc 'PZ'
+- GITenberg
 title: The Outdoor Girls at Wild Rose Lodge; Or, The Hermit of Moonlight Falls
 url: http://www.gutenberg.org/ebooks/4988
